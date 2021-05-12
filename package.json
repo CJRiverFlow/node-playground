@@ -1,0 +1,25 @@
+{
+  "name": "node-playground",
+  "version": "1.0.0",
+  "description": "Test repository for several node tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CJRiverFlow/node-playground.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Christian Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CJRiverFlow/node-playground/issues"
+  },
+  "homepage": "https://github.com/CJRiverFlow/node-playground#readme",
+  "dependencies": {
+    "jimp": "^0.16.1"
+  }
+}
