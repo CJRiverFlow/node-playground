@@ -36,8 +36,7 @@ jimp.read(buffer, (err, image) => {
           console.log(src)
           //Guardando la imagen para revisión DEV
           base64_decode(src)
-          console.log("Recortado y guardado")
-          return src  
+          console.log("Recortado y guardado") 
         })
     }
   })
